@@ -77,7 +77,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - mabdullah.se@gmail.com
+Email - mabdullah.se@gmail.com
 
 Project Link: [https://github.com/mabdullahse/NodePress-Express.git](https://github.com/mabdullahse/NodePress-Express.git)
 
