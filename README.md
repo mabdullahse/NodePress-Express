@@ -1,8 +1,6 @@
-Certainly! Below is an example of a `README.md` file for a Node.js blogging application that uses Mongoose, JWT for authentication, and Multer for image upload. You can customize this template to match the specific details and features of your project.
 
----
 
-# Node.js Blogging Application
+# Node.js Blogging Application | NodePress-Express
 
 ## About
 
